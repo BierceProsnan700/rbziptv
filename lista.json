@@ -1,0 +1,30 @@
+{
+    "user_info": {
+        "username": "001812146",
+        "password": "662101633",
+        "message": "",
+        "auth": 1,
+        "status": "Active",
+        "exp_date": 1704833650,
+        "is_trial": "0",
+        "active_cons": "1",
+        "created_at": 1593550450,
+        "max_connections": "100",
+        "allowed_output_formats": [
+            "m3u8",
+            "ts",
+            "rtmp"
+        ]
+    },
+    "server_info": {
+        "url": "kihniki.top",
+        "port": "80",
+        "https_port": "443",
+        "server_protocol": "http",
+        "rtmp_port": "25462",
+        "timezone": "America/Sao_Paulo",
+        "timestamp_now": 1696298863,
+        "time_now": "29/05/2026",
+        "process": true
+    }
+}
