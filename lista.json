@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "001812146",
-        "password": "662101633",
+        "username": "1603338471",
+        "password": "0218066590",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,14 +17,14 @@
         ]
     },
     "server_info": {
-        "url": "kihniki.top",
+        "url": "http://cb6.fun",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "25462",
         "timezone": "America/Sao_Paulo",
         "timestamp_now": 1696298863,
-        "time_now": "29/05/2026",
+        "time_now": "31/05/2026",
         "process": true
     }
 }
